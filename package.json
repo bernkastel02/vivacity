@@ -1,0 +1,31 @@
+{
+  "name": "vivacity",
+  "version": "0.0.1",
+  "description": "A module for accessing Geometry Dash's servers in a (soon) comphrensive and simplistic manner",
+  "main": "lib/Vivacity.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaguyaln/vivacity"
+  },
+  "keywords": [
+    "gd",
+    "geometrydash",
+    "gdash",
+    "geodash",
+    "node",
+    "geometry-dash",
+    "geometry",
+    "dash"
+  ],
+  "author": "Memi",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
